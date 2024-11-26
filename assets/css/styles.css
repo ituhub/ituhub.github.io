@@ -1,0 +1,92 @@
+/* CSS Variables */
+:root {
+    --primary: #4f46e5;
+    --secondary: #818cf8;
+    --accent: #c7d2fe;
+    --background: #f8fafc;
+    --text: #1e293b;
+    --font-family: 'Arial, sans-serif';
+}
+
+/* Global Styles */
+body {
+    font-family: var(--font-family);
+    background-color: var(--background);
+    color: var(--text);
+    margin: 0;
+    padding: 0;
+}
+
+/* Header Styles */
+header {
+    background-color: var(--primary);
+    color: #fff;
+    text-align: center;
+    padding: 2rem 0;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2.5rem;
+}
+
+header h2 {
+    margin-top: 0.5rem;
+    font-weight: normal;
+    font-size: 1.5rem;
+}
+
+/* Section Styles */
+section {
+    padding: 2rem;
+}
+
+section h2 {
+    font-size: 2rem;
+    border-bottom: 2px solid var(--primary);
+    padding-bottom: 0.5rem;
+}
+
+/* Project Cards */
+.project-card {
+    border: 1px solid var(--accent);
+    border-radius: 8px;
+    padding: 1rem;
+    margin-bottom: 2rem;
+}
+
+.project-card h3 {
+    margin-top: 0;
+}
+
+.project-card img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+.project-card a {
+    display: inline-block;
+    margin-top: 1rem;
+    padding: 0.5rem 1rem;
+    background-color: var(--primary);
+    color: #fff;
+    text-decoration: none;
+    border-radius: 4px;
+}
+
+.project-card a:hover {
+    background-color: var(--secondary);
+}
+
+/* Footer Styles */
+footer {
+    background-color: var(--primary);
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+}
+
+footer p {
+    margin: 0;
+}
