@@ -1,14 +1,30 @@
-# Umair Ali's Personal Portfolio Website
+# Portfolio Website
 
-A modern, responsive portfolio website showcasing my development projects and applications.
+Welcome to my portfolio website! This repository contains the code for my personal portfolio showcasing my projects and contact information.
 
-## Features
+## Projects Featured
 
-- Responsive design that works on desktop and mobile devices
-- Showcase of AI and data analysis projects with detailed information
-- Skills and expertise highlighting
-- Education and certification details
-- Contact information and social links
-- Clean and modern UI with gradient accents
+- **Tax Fraud Detection Application**: Machine learning-based system for identifying irregularities in tax systems.
+  - Technologies: Python, Machine Learning, Streamlit
+  - [Live Demo](https://tax-fraud-detection.onrender.com/)
 
-## Structure
+- **Sales Prediction App**: Predictive modeling application for forecasting sales trends.
+  - Technologies: Python, Machine Learning, Streamlit
+  - [Live Demo](https://sales-prediction-d4u6.onrender.com/)
+
+## Contact Information
+
+- Location: Sylen, 2630 Høje Taastrup
+- Phone: +45 4230 2125
+- Email: malik.ali642@gmail.com
+- Professional Profiles: [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile) | [GitHub](https://github.com/ituhub)
+
+## Technologies Used
+
+- HTML
+- CSS
+- Markdown
+
+## License
+
+© 2024 Umair Ali. All rights reserved.
